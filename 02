@@ -6,8 +6,9 @@
 </head>
 <body>
 
+
 <img src='https://www.catholic.ac.kr/front/imgs/common/logo_header.png'>
-<a href='https://www.catholic.ac.kr/index.do'> 오시는 길 </a>
+<a href='#beta'> 오시는 길</a>
 <hr>
 
 
@@ -59,10 +60,10 @@
 <img src='https://www.catholic.ac.kr/common_image/www/64404_20221213151436648.png'>
 <hr>
 
+<a href='#alpha'> 홈 </a>
 
-<a href='https://www.catholic.ac.kr/'> 홈 </a>
 <br>
-<p><b>성심교정</b> <sub><ins>(14662)</ins></sub> <i>경기도 부천시 지봉로 43</i> </p>
+<p id = 'beta'><b>성심교정</b> <sub><ins>(14662)</ins></sub> <i>경기도 부천시 지봉로 43</i> </p>
 
 </body>
 </html>
