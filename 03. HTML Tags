@@ -1,4 +1,4 @@
-# HTML 기본 태그
+# 1
 <!DOCTYPE html>
 <html>
 <table border="1">
@@ -25,6 +25,35 @@
     <td>03083</td>
     <td>서울특별시 종로구</td>
     <td>02-3147-8114</td>
+</tr>
+</table>
+</html>
+
+
+#2
+<!DOCTYPE html>
+<html>
+
+<table border="4">
+<tr>
+    <th colspan="2">가톨릭대학교</th>
+</tr>
+
+<tr>
+    <td rowspan="5">공학</td>
+    <td>ICT공학게열</td>
+</tr>
+<tr>
+    <td>바이오융합공학계열</td>
+</tr>
+<tr>
+    <td>인공지능학과</td>
+</tr>
+<tr>
+    <td>데이터사이언스학과</td>
+</tr>
+<tr>
+    <td>바메솦</td>
 </tr>
 </table>
 </html>
