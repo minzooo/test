@@ -1,0 +1,30 @@
+# HTML 기본 태그
+<!DOCTYPE html>
+<html>
+<table border="1">
+<tr>
+    <th>교정</th>
+    <th>우편번호</th>
+    <th>주소</th>
+    <th>TEL</th>
+</tr>
+<tr>
+    <td>성심교정</td>
+    <td>14662</td>
+    <td>경기도 부천시</td>
+    <td>02-2164-4114</td>
+</tr>
+<tr>
+    <td>성의교정</td>
+    <td>06531</td>
+    <td>서울특별시 서초구</td>
+    <td>02-740-9714</td>
+</tr>
+<tr>
+    <td>성신교정</td>
+    <td>03083</td>
+    <td>서울특별시 종로구</td>
+    <td>02-3147-8114</td>
+</tr>
+</table>
+</html>
